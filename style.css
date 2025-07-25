@@ -160,3 +160,32 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Espacio entre botones */
+  margin-top: 20px;
+}
+
+.button-restart {
+  background-color: #e63946;
+  color: var(--color-white);
+  font-size: 16px;
+  padding: 10px 40px;
+  border-radius: 25px;
+  border: 2px solid #000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  font-family: "Inter", sans-serif;
+}
+
+.button-restart:hover {
+  background-color: #c5303a;
+}
+
+.button-restart:disabled {
+  background-color: #bbb;
+  cursor: not-allowed;
+}
