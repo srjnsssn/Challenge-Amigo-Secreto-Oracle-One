@@ -4,6 +4,18 @@ Este proyecto fue desarrollado como parte del programa **Oracle Next Education (
 
 ---
 
+```
+    Challenge: Amigo Secreto
+    Reto parte de la ruta de Programacion para Oracle One y Alura
+    SELECCIÓN PROGRAMA ONE : G9 LAD
+    Aspirante: Brandon Molina
+    LinkedIn: www.linkedin.com/in/branmolgon00
+    GitHub: https://github.com/srjnsssn
+    Fecha de resolucion planteada: 24-07-25
+```
+
+---
+
 ## 📌 Descripción
 
 La aplicación permite a los usuarios:
