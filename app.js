@@ -79,7 +79,7 @@ function sortearAmigo() {
     if (validarLista() === true) {
         alert("Por favor, ingresa al menos un amigo antes de sortear.");
     } else {
-        let numeroAleatorio = Math.floor(Math.random() * tamanioLista) -1;
+        let numeroAleatorio = Math.floor(Math.random() * tamanioLista);
         console.log(tamanioLista);
         console.log(numeroAleatorio);
         document.getElementById("resultado").innerHTML = `El amigo secreto es: ${amigos[numeroAleatorio]}`;
