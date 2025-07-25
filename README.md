@@ -79,5 +79,7 @@ Este proyecto fue realizado como parte del programa de becas Oracle Next Educati
 
 📝 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo ```LICENSE``` para más información.
+> ⚠️ Este proyecto se basa en un desafío educativo de **Oracle Next Education** y **Alura Latam**.
+> Los archivos `index.html` y `style.css` fueron proporcionados por la plataforma como base del proyecto.
+> El archivo `app.js` (lógica en JavaScript) fue desarrollado por **Brandon Molina** como parte del proceso de aprendizaje.
 
